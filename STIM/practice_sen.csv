@@ -1,0 +1,5 @@
+﻿sen_id_prac,sentence_prac,question_prac,question_id_prac,cor_response_prac
+1,Joe realized that the train was late while he waited at the train station.,Was the train late?,TRUE,yes
+2,A sentence is a set of words formed to express a thought or an idea.,NA,FALSE,NA
+3,Young kids are developmentally sensitive to stresses of family separation.,Are young kids sensitive to stresses of family separation?,TRUE,yes
+4,Hard work and diligence should be the watchword of any would-be success.,NA,FALSE,NA

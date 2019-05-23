@@ -1,0 +1,6 @@
+﻿item_id,item,word_status,cor_response
+1,distance,word,yes
+2,affessif,non-word,no
+3,salver,non-word,no
+4,boundary,word,yes
+5,saliva,word,yes

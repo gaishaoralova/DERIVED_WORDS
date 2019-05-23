@@ -1,0 +1,161 @@
+﻿sen_id,derived_word,stem,suffix,non_words,sentence,int_area,inv_loc,stem_freq,whole_word_freq,lsa_score,condition,question,question_id,cor_response
+1,civility,civil,ity,cimality,The lawyer didn't have the civility to use the doorknocker when he arrived.,6,"528, 354",813,28,0.85032,high_lsa_low_freq,Did the lawyer behave respectfully?,TRUE,yes
+2,sincerity,sincere,ity,minferity,She wrote in her notebook with complete sincerity about all sorts of things.,8,"749, 354",305,102,0.490683,low_lsa_high_freq,NA,FALSE,NA
+3,contender,contend,er,contesher,The close contender won a goldfish for his efforts. ,3,"239, 354",48,49,0.86413,high_lsa_low_freq,NA,FALSE,NA
+4,pretender,pretend,er,stevenser,The silly pretender sustained an injury to her hamstring after faking one. ,3,"239, 354",2056,94,0.840585,high_lsa_high_freq,NA,FALSE,NA
+5,separateness,separate,ness,poparactness,Her experiences made her feel a separateness from her peers.,7,"614, 354",1107,7,0.712596,high_lsa_low_freq,Did she feel different from her peers?,TRUE,yes
+6,rudeness,rude,ness,rugeness,The evident rudeness of that crewman may be a problem.,3,"273, 354",1125,43,0.56882,low_lsa_low_freq,NA,FALSE,NA
+7,joyful,joy,ful,jaxful,That morning even the most joyful policeman was dismayed by the events.,6,"528, 354",1456,76,0.478799,low_lsa_high_freq,NA,FALSE,NA
+8,poacher,poach,er,reinter,The swift poacher cut the animal's windpipe. ,3,"238, 354",17,26,0.810855,high_lsa_low_freq,NA,FALSE,NA
+9,masterful,master,ful,patterful,The experienced streetcar operator had masterful knowledge of his trolley.,6,"731, 354",4450,20,0.735689,high_lsa_low_freq,Is the streetcar operator a competent worker?,TRUE,yes
+10,payment,pay,ment,pabment,She received his payment for painting a pinstripe on the suit.,4,"357, 354",12985,538,0.484679,low_lsa_high_freq,NA,FALSE,NA
+11,clarification,clarify,ion,drarification,The boy requested clarification from the caveman about their plans.,4,"375, 354",114,30,0.415897,low_lsa_low_freq,NA,FALSE,NA
+12,broiler,broil,er,shulker,The chef cooked the seafood under the broiler until it was crispy. ,8,"714, 354",15,10,0.725006,high_lsa_low_freq,NA,FALSE,NA
+13,selective,select,ive,setactive,The common firefly is very selective when choosing a mate.,6,"529, 354",180,60,0.864551,high_lsa_low_freq,Is firefly selective when choosing a mate?,TRUE,yes
+14,luminosity,luminous,ity,lumibacity,It is true that candlepower is a measure of the luminosity of a lightbulb.,11,"884, 354",39,2,0.552656,low_lsa_low_freq,NA,FALSE,NA
+15,brightness,bright,ness,crightness,The glowing brightness of the cherries made the fruitcake look appetizing. ,3,"272, 354",2265,30,0.569412,low_lsa_low_freq,NA,FALSE,NA
+16,competitive,compete,ive,corrititive,The models were very competitive about their waistline size.,5,"427, 354",432,214,0.506276,low_lsa_high_freq,NA,FALSE,NA
+17,flexibility,flexible,ity,chimirility,The workers tested the flexibility of the replacement floorboard before installing it.,5,"460, 354",136,50,0.461795,low_lsa_low_freq,Does the flexibility of the replacement floorboard need to be tested before installing?,TRUE,yes
+18,constructive,construct,ive,constristive,Her ragtag team of employees were no longer constructive in their criticism.,9,"818, 354",74,111,0.914581,high_lsa_high_freq,NA,FALSE,NA
+19,crateful,crate,ful,crostful,For his coffeepot he bought a crateful of freshly ground beans.,7,"578, 354",209,1,0.847473,high_lsa_low_freq,NA,FALSE,NA
+20,handful,hand,ful,hainful,He grabbed a handful of candy in the boathouse that night.,4,"290, 354",14262,291,0.812923,high_lsa_high_freq,NA,FALSE,NA
+21,casualness,casual,ness,didaagness,The unexpected casualness of her outfit was inappropriate. ,3,"324, 354",373,1,0.721633,high_lsa_low_freq,Was her oufit deemed inappropriate?,TRUE,yes
+22,drinkable,drink,able,snankable,"According to folklore, the water served on an aircraft is not drinkable at all.",12,"1125, 354",12617,4,0.486828,low_lsa_low_freq,NA,FALSE,NA
+23,amendment,amend,ment,arortment,The recent amendment opened a floodgate of criticism.,3,"256, 354",38,209,0.528067,low_lsa_high_freq,NA,FALSE,NA
+24,meaningful,meaning,ful,rouringful,You can use your eyebrows to make many meaningful expressions.,9,"733, 354",1904,176,0.703387,high_lsa_high_freq,NA,FALSE,NA
+25,sedative,sedate,ive,ravative,Running at the seaside is a sedative for my soul.,7,"546, 354",64,130,0.668603,high_lsa_high_freq,Can you run at the seaside?,TRUE,yes
+26,tolerable,tolerate,able,voserable,The sunlight can be tolerable with the right pair of glasses.,5,"409, 354",354,23,0.727233,high_lsa_low_freq,NA,FALSE,NA
+27,pronunciation,pronounce,ion,prodymniation,Her pronunciation of the word touchstone was funny.,2,"137, 354",331,24,0.56751,low_lsa_low_freq,NA,FALSE,NA
+28,advancement,advance,ment,adruchment,The quick advancement of the warship frightened the children.,3,"239, 354",815,63,0.832681,high_lsa_low_freq,NA,FALSE,NA
+29,plantation,plant,ion,smontation,We added a signpost to direct cars to the plantation and farm.,10,"784, 354",1408,170,0.736217,high_lsa_high_freq,Were cars directed only to the plantation?,TRUE,no
+30,disrespectful,disrespect,ful,dismescectful,The ladybug was disrespectful to the villain.,4,"340, 354",267,105,0.491148,low_lsa_high_freq,NA,FALSE,NA
+31,humanity,human,ity,fucinity,The performance of the concertmaster was a gift to humanity that evening.,10,"935, 354",6363,495,0.457214,low_lsa_high_freq,NA,FALSE,NA
+32,aggressiveness,aggressive,ness,iddrarriveness,Her aggressiveness towards the copycat was excessive.,2,"138, 354",405,20,0.457019,low_lsa_low_freq,NA,FALSE,NA
+33,banishment,banish,ment,fenindment,His inability to pay led to his banishment from the premises.,8,"613, 354",69,10,0.716389,high_lsa_low_freq,Was he banished from the premises?,TRUE,yes
+34,locker,locker,er,tisher,He put the orange lifebuoy in his locker after swimming.,8,"648, 354",815,815,1.19E-07,low_lsa_high_freq,NA,FALSE,NA
+35,announcement,announce,ment,arcouncement,The lumberjack made an announcement at the party.,5,"460, 354",498,525,0.499399,low_lsa_high_freq,NA,FALSE,NA
+36,blazer,blaze,er,spixer,A milestone was reached when I bought my blazer for work.,9,"768, 354",107,62,0.880298,high_lsa_low_freq,NA,FALSE,NA
+37,gardener,garden,er,vislener,The mature gardener left a landmark where she planted her seeds. ,3,"256, 354",1354,214,0.464252,low_lsa_high_freq,Did gardener leave her instruments where she planted her seeds?,TRUE,no
+38,refundable,refund,able,rehephable,The sign on the gatepost said that fees were not refundable in any circumstance.,11,"902, 354",141,8,0.507182,low_lsa_low_freq,NA,FALSE,NA
+39,manufacturer,manufacture,er,sunurullerer,The manufacturer followed the checklist every day.,2,"136, 354",124,91,0.503128,low_lsa_high_freq,NA,FALSE,NA
+40,mindful,mind,ful,sushful,He had to be mindful around the machine or risk losing a fingertip in its gears.,5,"290, 354",24715,25,0.830062,high_lsa_low_freq,NA,FALSE,NA
+41,earful,ear,ful,oadful,He received an earful of abuse in the wardroom before battle.,4,"325, 354",1632,22,0.811812,high_lsa_low_freq,Did he receive a lot of encouragement in the wardroom before battle?,TRUE,no
+42,bidder,bid,er,bosper,She could not tempt the bidder during springtime or in the fall. ,6,"476, 354",642,88,0.459612,low_lsa_high_freq,NA,FALSE,NA
+43,barker,bark,er,calser,The loud barker was sent to the doghouse to rest. ,3,"222, 354",280,149,0.936641,high_lsa_high_freq,NA,FALSE,NA
+44,establishment,establish,ment,empaggatement,The successful establishment offered a bathrobe to each customer. ,3,"323, 354",323,210,0.693616,high_lsa_high_freq,NA,FALSE,NA
+45,accusation,accuse,ion,admavation,The new bellhop resented the accusation of stealing.,6,"562, 354",290,143,0.507563,low_lsa_high_freq,Did the bellhop feel that the accusations against him were fair?,TRUE,no
+46,minority,minor,ity,pifority,She was in the minority by not wearing a raincoat in this weather.,5,"323, 354",654,113,0.942541,high_lsa_high_freq,NA,FALSE,NA
+47,modification,modify,ion,symification,A quick modification of the bombshell made it inactive. ,3,"206, 354	",50,43,0.493219,low_lsa_low_freq,NA,FALSE,NA
+48,nimbleness,nimble,ness,nascreness,The fortunate nimbleness of the newsboy made him successful.,3,"307, 354",30,1,0.702274,high_lsa_low_freq,NA,FALSE,NA
+49,dullness,dull,ness,rireness,The surprising dullness of the stoneware made it unpopular. ,3,"324, 354",616,7,0.512884,low_lsa_low_freq,Was the stoneware a successful product?,TRUE,no
+50,objective,object,ive,osfactive,"In preparation for the talent show, she sketched out her objective on the notepaper.",11,"1037, 354",1314,359,0.739571,high_lsa_high_freq,NA,FALSE,NA
+51,mender,mend,er,sonder,The skilled mender fixed the tear in the nightgown right away. ,3,"272, 354",133,1,0.704508,high_lsa_low_freq,NA,FALSE,NA
+52,listener,listen,er,nenteser,When the sneaky listener was in earshot he could hear the conversation. ,4,"344, 354",27784,72,0.776686,high_lsa_high_freq,NA,FALSE,NA
+53,interviewer,interview,er,interteeder,The interviewer travelled to the wasteland for the report.,2,"137, 354",1505,22,0.41179,low_lsa_low_freq,Did the interviewer travel for her report?,TRUE,yes
+54,shipment,ship,ment,brapment,The next shipment of the buckwheat will go to the factory.,3,"222, 354",5043,322,0.701285,high_lsa_high_freq,NA,FALSE,NA
+55,resourceful,resource,ful,repourceful,The resourceful captain of the submarine gradually submerged it.,2,"137, 354",83,74,0.86863,high_lsa_high_freq,NA,FALSE,NA
+56,glassful,glass,ful,smustful,The desperate man gulped a glassful of seawater despite the warnings.,6,"528, 354",3096,3,0.568373,low_lsa_low_freq,NA,FALSE,NA
+57,endorsement,endorse,ment,entunchment,He withdrew his endorsement after fighting on the parkway today.,4,"341, 354",88,71,0.441491,low_lsa_high_freq,Did he withdraw his endorsement today?,TRUE,yes
+58,kidnapper,kidnap,er,kibcipper,The officers arrested the kidnapper at the playground this afternoon.,5,"511, 354",331,206,0.485359,low_lsa_high_freq,NA,FALSE,NA
+59,diversity,diverse,ity,mimersity,The old taskmaster needed to learn about diversity in the workplace.,8,"766, 354",39,56,0.485618,low_lsa_low_freq,NA,FALSE,NA
+60,pleasurable,pleasure,able,cleadurable,He was so overcome with heartbreak that he no longer found it pleasurable to have sex.,13,"1123, 354",4118,38,0.570742,low_lsa_low_freq,NA,FALSE,NA
+61,community,commune,ity,corcarity,She liked the sense of community in the dayroom at the residence.,6,"460, 354",67,1486,0.845078,high_lsa_high_freq,Did she like the residence?,TRUE,yes
+62,boxer,box,er,cuzer,The experienced boxer was a southpaw and one of the best fighters around.,3,"341, 354",4577,196,0.792659,high_lsa_high_freq,NA,FALSE,NA
+63,wiper,wipe,er,guler,I repaired the gearbox and wiper of my car.,6,"526, 354",861,29,0.747373,high_lsa_low_freq,NA,FALSE,NA
+64,tracer,trace,er,shayer,They trained the bloodhound to be a tracer for police investigations.,8,"681, 354",989,86,0.662591,high_lsa_high_freq,NA,FALSE,NA
+65,programmer,program,er,prophigmner,The programmer needed to meet the deadline for work.,2,"136, 354",2174,56,0.766529,high_lsa_low_freq,Was the programmer required to finish her work in a given timeframe?,TRUE,yes
+66,dependable,depend,able,decothable,The crew were always dependable and never failed to show up to work on time.,5,"425, 354",504,85,0.888208,high_lsa_high_freq,NA,FALSE,NA
+67,defender,defend,er,dewosher,Unfortunately her defender was caught in the crossfire yesterday.,3,"376, 354",959,152,0.708226,high_lsa_high_freq,NA,FALSE,NA
+68,banker,bank,er,cailer,The banker owned a greenhouse with his friend.,2,"136, 354",4334,243,0.417712,low_lsa_high_freq,NA,FALSE,NA
+69,favorable,favor,able,hycorable,They hoped that a favorable outcome would result from a lawsuit against the city.,5,"375, 354",3609,55,0.708869,high_lsa_low_freq,Were they hoping for a favorable outcome from the lawsuit?,TRUE,yes
+70,graceful,grace,ful,blardful,The new horseshoe made the horse look more graceful during her performance .,9,"800, 354",2157,118,0.735145,high_lsa_high_freq,NA,FALSE,NA
+71,pigmentation,pigment,ion,purlentation,The bright pigmentation of the mouthwash made it popular with children. ,3,"255, 354",15,16,0.432168,low_lsa_low_freq,NA,FALSE,NA
+72,suitable,suit,able,sousable,The daughter of a fisherman is not a suitable wife for a lord.,9,"698, 354",3499,247,0.745709,high_lsa_high_freq,NA,FALSE,NA
+73,remover,remove,er,recoger,The tool was a remover for the whitehead on my nose.,5,"324, 354",1084,33,0.581856,low_lsa_low_freq,Was the purpose of the tool to remove blisters?,TRUE,no
+74,player,player,er,draber,When the player stepped on a landmine he sustained injuries.,3,"223, 354",1926,1926,1.19E-07,low_lsa_high_freq,NA,FALSE,NA
+75,adjustment,adjust,ment,adlusement,He made an adjustment to his shirtsleeve before the interview.,4,"257, 354",287,158,0.469464,low_lsa_high_freq,NA,FALSE,NA
+76,preacher,preach,er,cheacher,The hungry preacher made a beeline for the buffet.,3,"256, 354",122,342,0.44493,low_lsa_high_freq,NA,FALSE,NA
+77,combination,combine,ion,coscitation,A sudden combination of bloodlust and anger caused the war. ,3,"224, 354",113,611,0.485057,low_lsa_high_freq,Did the events leading to the war begin slowly?,TRUE,no
+78,healer,heal,er,hieser,I helped the healer load the wheelbarrow with medication.,4,"288, 354",578,84,0.468674,low_lsa_high_freq,NA,FALSE,NA
+79,advisable,advise,able,asfesable,It is advisable to sit on the sidesaddle when riding a horse.,3,"169, 354",622,40,0.59055,low_lsa_low_freq,NA,FALSE,NA
+80,punishment,punish,ment,senicement,He received punishment for throwing horseshit in public.,3,"274, 354",493,685,0.449861,low_lsa_high_freq,NA,FALSE,NA
+81,rider,ride,er,meder,The rider liked to watch the sunset on the beach.,2,"137, 354",6904,393,0.492304,low_lsa_high_freq,Did the rider watch the sunset from his window?,TRUE,no
+82,retirement,retire,ment,relichment,The aging publisher looked forward to retirement next year.,7,"715, 354",499,431,0.346045,low_lsa_high_freq,NA,FALSE,NA
+83,mariner,marine,er,deniner,The mariner says that saltwater feels like home.,2,"136, 354",718,22,0.821086,high_lsa_low_freq,NA,FALSE,NA
+84,commander,command,er,cortasser,The young commander had an earache all night.,3,"239, 354",2225,1887,0.409833,low_lsa_high_freq,NA,FALSE,NA
+85,driver,drive,er,pliver,Her driver panicked when the dashboard went blank.,2,"138, 354",7810,2416,0.469503,low_lsa_high_freq,Did the driver panic?,TRUE,yes
+86,helpful,help,ful,huthful,The academic did so much schoolwork which was not helpful in his social life.,10,"918, 354",46977,619,0.664503,high_lsa_high_freq,NA,FALSE,NA
+87,irritable,irritate,able,irsilalable,The irritable scoutmaster could not bring himself to teach anymore boys.,2,"137, 354",48,74,0.692732,high_lsa_high_freq,NA,FALSE,NA
+88,government,govern,ment,voveshment,The old airbase closed down because the government cut spending.,8,"749, 354",62,3327,0.728446,high_lsa_high_freq,NA,FALSE,NA
+89,purity,pure,ity,dumity,The community were aware of the purity of the produce that the milkman delivered.,7,"612, 354",1271,121,0.454315,low_lsa_high_freq,Was the community happy with the produce of the milkman?,TRUE,yes
+90,successive,success,ive,suspissive,They ate oatmeal for seven successive days.,6,"528, 354",1390,8,0.866684,high_lsa_low_freq,NA,FALSE,NA
+91,forgettable,forget,able,norpultable,Their time in the moorland was the most forgettable part of the trip.,9,"749, 354",14130,15,0.840276,high_lsa_low_freq,NA,FALSE,NA
+92,builder,build,er,coother,The builder was caught in traffic on the turnpike this morning.,2,"136, 354",2452,48,0.577098,low_lsa_low_freq,NA,FALSE,NA
+93,easiness,easy,ness,oapiness,The easiness of the test meant that very few students failed.,2,"137, 354",13551,1,0.776529,high_lsa_low_freq,Was the test very difficult?,TRUE,no
+94,rarity,rare,ity,senity,It was a rarity to find edible mushrooms in the woodland south of the river.,4,"221, 354",1087,20,0.474831,low_lsa_low_freq,NA,FALSE,NA
+95,repulsive,repulse,ive,renecsive,His armpit smelled repulsive to his girlfriend.,4,"393, 354",13,103,0.823082,high_lsa_high_freq,NA,FALSE,NA
+96,researcher,research,er,dedearther,The researcher laid the groundwork for the theory.,2,"137, 354",1688,38,0.467369,low_lsa_low_freq,NA,FALSE,NA
+97,aspiration,aspire,ion,imnination,His only aspiration was to fly a troopship one day. ,3,"224, 354",55,29,0.709688,high_lsa_low_freq,Did he have many different aspirations?,TRUE,no
+98,narrative,narrate,ive,vencative,At the local meetinghouse the man told a long narrative of his troubles.,10,"853, 354",12,53,0.5313,low_lsa_low_freq,NA,FALSE,NA
+99,interpreter,interpret,er,interchoter,The youthful interpreter had a large wardrobe full of clothes. ,3,"290, 354",125,91,0.726949,high_lsa_high_freq,NA,FALSE,NA
+100,sitter,sit,er,metter,The new sitter wore a sweatband because she had just come from the gym. ,3,"206, 354",15879,80,0.834351,high_lsa_high_freq,NA,FALSE,NA
+101,newness,new,ness,gyrness,The newness of the courtroom impressed the citizens. ,2,"137, 354",36913,13,0.813611,high_lsa_low_freq,Was the courtroom in a state of disrepair?,TRUE,no
+102,hardness,hard,ness,haptness,The reliable hardness of whalebone makes it a valuable material. ,3,"289, 354",15700,13,0.792451,high_lsa_low_freq,NA,FALSE,NA
+103,reminder,remind,er,reronger,She set a reminder to book the campsite that weekend.,4,"239, 354",1883,192,0.47868,low_lsa_high_freq,NA,FALSE,NA
+104,exclamation,exclaim,ion,enpramation,The boy let out an exclamation of joy upon arriving at the amusement park.,6,"392, 354",7,28,0.764564,high_lsa_low_freq,NA,FALSE,NA
+105,repairer,repair,er,renitzer,The quick repairer fixed the streetcar without delay. ,3,"239, 354",450,1,0.552377,low_lsa_low_freq,Did the repairer fix the streetcar quickly?,TRUE,yes
+106,happiness,happy,ness,lampiness,The girl painted the eggcup with happiness and satisfaction. ,7,"629, 354",16993,1249,0.434155,low_lsa_high_freq,NA,FALSE,NA
+107,exploiter,exploit,er,exptrepser,The greedy exploiter sold fake goatskin to the villagers.,3,"257, 354",125,3,0.70277,high_lsa_low_freq,NA,FALSE,NA
+108,hurtful,hurt,ful,hengful,The bad reviews of her new book were very hurtful to her.,10,"812, 354",12564,58,0.590863,low_lsa_low_freq,NA,FALSE,NA
+109,recruiter,recruit,er,resmeaner,The recruiter was amazed by her masterpiece at the show.,2,"137, 354",188,35,0.590534,low_lsa_low_freq,Was the recruiter dissappointed with her masterpiece?,TRUE,no
+110,artful,art,ful,ameful,The final firework went off in an artful pattern of colors.,8,"647, 354",3611,9,0.778248,high_lsa_low_freq,NA,FALSE,NA
+111,lovable,love,able,titable,His livestock are not considered lovable to society.,6,"632, 354",56864,91,0.667343,high_lsa_high_freq,NA,FALSE,NA
+112,waiter,wait,er,waucer,The waiter asked if I wanted sourdough bread with my meal.,2,"136, 354",42343,673,0.684105,high_lsa_high_freq,NA,FALSE,NA
+113,adjustable,adjust,able,admuthable,When working down in the coalmine they all wore adjustable headlights.,10,"887, 354",287,16,0.560539,low_lsa_low_freq,Were the headlights fixed in place?,TRUE,no
+114,brutality,brutal,ity,skutality,After putting down the wineskin he considered the brutality of what he had just seen.,9,"920, 354",375,112,0.453196,low_lsa_high_freq,NA,FALSE,NA
+115,beautiful,beauty,ful,boaltiful,The morning after the snowstorm was beautiful and quiet.,7,"680, 354",2460,14266,0.487556,low_lsa_high_freq,NA,FALSE,NA
+116,drawer,draw,er,spyger,I found my workbook in my drawer at school.,7,"511, 354",2061,663,0.839454,high_lsa_high_freq,NA,FALSE,NA
+117,tearful,tear,ful,loodful,The news of the accident had made me incredibly tearful all holiday.,10,"886, 354",1377,22,0.817759,high_lsa_low_freq,Did the speaker enjoy her vacation?,TRUE,no
+118,resentment,resent,ment,recurpment,The man regarded the chessboard with resentment and distaste. ,7,"698, 354",293,76,0.670687,high_lsa_high_freq,NA,FALSE,NA
+119,breathable,breath,able,cloustable,He needed a jacket that was breathable when riding his motorbike to work.,7,"545, 354",2291,14,0.804375,high_lsa_low_freq,NA,FALSE,NA
+120,renter,rent,er,cauxer,The new renter found a bootlace in the apartment. ,3,"206, 354",1762,13,0.578389,low_lsa_low_freq,NA,FALSE,NA
+121,restrictive,restrict,ive,resplintive,There are many restrictive regulations made on mailboat captains.,4,"325, 354",28,14,0.585062,low_lsa_low_freq,Is the work of mailboat captains carefully controlled?,TRUE,yes
+122,confirmation,confirm,ion,conhignation,The quick pinprick provided a confirmation of his identity. ,6,"579, 354",736,280,0.437467,low_lsa_high_freq,NA,FALSE,NA
+123,instinctive,instinct,ive,inclemptive,She had an instinctive fear of entering his apartment.,4,"256, 354",390,21,0.421646,low_lsa_low_freq,NA,FALSE,NA
+124,aggressive,aggress,ive,apshissive,The beautiful sunfish is almost extinct now because of aggressive fishing techniques.,10,"1004, 354",2,405,0.703994,high_lsa_high_freq,NA,FALSE,NA
+125,sketcher,sketch,er,photcher,The young sketcher sat in the classroom and drew a picture. ,3,"239, 354",252,1,0.704617,high_lsa_low_freq,Did the artist draw a picture?,TRUE,yes
+126,sniffer,sniff,er,quirger,A sensitive sniffer can smell an ashtray from meters away. ,3,"275, 354",181,17,0.554186,low_lsa_low_freq,NA,FALSE,NA
+127,revolver,revolve,er,revagler,Grab the revolver from the stairway on your way down.,3,"222, 354",35,141,0.910548,high_lsa_high_freq,NA,FALSE,NA
+128,agitation,agitate,ion,osicity,Her agitation grew when she saw the lampshade was trashed.,2,"138, 354",22,25,0.523186,low_lsa_low_freq,NA,FALSE,NA
+129,defective,defect,ive,dedontive,The gunman surrendered himself after he found a defective part in his pistol.,9,"885, 354",126,110,0.446283,low_lsa_high_freq,Did the gunman surrender?,TRUE,yes
+130,fearful,fear,ful,toodful,I noticed that a grasshopper is a fearful little creature.,8,"646, 354",3523,110,0.429036,low_lsa_high_freq,NA,FALSE,NA
+131,cooperative,cooperate,ive,coanslative,Constructing a chimneystack requires a cooperative effort.,6,"733, 354",528,104,0.681439,high_lsa_high_freq,NA,FALSE,NA
+132,announcer,announce,er,anveanter,The announcer gave the pinball champion his award.,2,"137, 354",498,574,0.820751,high_lsa_high_freq,NA,FALSE,NA
+133,consciousness,conscious,ness,comstroudness,When she regained consciousness she recalled the nightmare she had. ,4,"377, 354",347,413,0.475864,low_lsa_high_freq,Did she have a good night's sleep?,TRUE,no
+134,absurdity,absurd,ity,agnishity,It is pure absurdity to expect women alone to do all the housework.,4,"255, 354",495,32,0.510777,low_lsa_low_freq,NA,FALSE,NA
+135,declaration,declare,ion,detmaration,A moving declaration of love was made at her birthday party last night.,3,"224, 354",386,180,0.48664,low_lsa_high_freq,NA,FALSE,NA
+136,consultation,consult,ion,concirlation,The businessman met with his lawyer for a consultation over the potential lawsuit.,9,"783, 354",285,64,0.729601,high_lsa_low_freq,NA,FALSE,NA
+137,management,manage,ment,panassment,The new management provided a shoehorn for each employee. ,3,"205, 354",1095,594,0.756599,high_lsa_high_freq,Were shoehorns provided for each employee?,TRUE,yes
+138,captivity,captive,ity,caupegity,"During their captivity, the prisoners were forced to do fieldwork and were fed very little.",3,"290, 354",116,64,0.452042,low_lsa_low_freq,NA,FALSE,NA
+139,immunity,immune,ity,allunity,He had immunity despite his horrific wartime offences.,3,"190, 354",221,216,0.528285,low_lsa_high_freq,NA,FALSE,NA
+140,employer,employ,er,estrexer,The crowd applauded for the employer and his company. ,6,"545, 354",171,274,0.781713,high_lsa_high_freq,NA,FALSE,NA
+141,witness,wit,ness,gurness,I was a witness to the murder of the musician last year.,4,"203, 354",302,2621,0.917807,high_lsa_high_freq,Was the musician murdered?,TRUE,yes
+142,skillful,skill,ful,glailful,The council made sure that the skyscraper was built by the most skillful of workers.,13,"1157, 354",404,40,0.562685,low_lsa_low_freq,NA,FALSE,NA
+143,rashness,rash,ness,sindness,The extreme rashness of the joyride was not lost on the mother.,3,"273, 354",410,3,0.754013,high_lsa_low_freq,NA,FALSE,NA
+144,assertive,assert,ive,ampertive,Female swordfish can be very assertive during mating.,6,"562, 354",43,23,0.840499,high_lsa_low_freq,NA,FALSE,NA
+145,liability,liable,ity,giadility,A gossiping employee is always a liability in the workplace.,7,"632, 354",369,158,0.430274,low_lsa_high_freq,Are gossiping employees a good thing to have in the workplace?,TRUE,no
+146,flipper,flip,er,spasser,The silly schoolmate played with a flipper over lunch.,7,"664, 354",728,45,0.797055,high_lsa_low_freq,NA,FALSE,NA
+147,punctuality,punctual,ity,sansfuolity,Having a bedtime taught her punctuality at an early age.,6,"545, 354",57,33,0.42334,low_lsa_low_freq,NA,FALSE,NA
+148,questionable,question,able,slastionable,The newly appointed committee member had questionable motives.,7,"766, 354",10116,117,0.873028,high_lsa_high_freq,NA,FALSE,NA
+149,durability,durable,ity,cudacility,The durability of hiking boots is the most important thing about them.,2,"137, 354",18,11,0.435801,low_lsa_low_freq,Is durability the most important thing about hiking boots?,TRUE,yes
+150,drowsiness,drowsy,ness,whowdiness,The trucker's persistent drowsiness caused him to pull over.,4,"494, 354",37,5,0.41696,low_lsa_low_freq,NA,FALSE,NA
+151,skier,ski,er,ghoer,We lost a skier on the shortcut to the lodge.,4,"241, 354",413,24,0.358462,low_lsa_low_freq,NA,FALSE,NA
+152,dispensation,dispense,ion,dismingation,There are strict rules controlling the dispensation of medication.,7,"732, 354",69,18,0.808528,high_lsa_low_freq,NA,FALSE,NA
+153,causation,cause,ion,cafsation,In a complex situation causation is likely to be multiple.,5,"459, 354",15812,9,0.789775,high_lsa_low_freq,Is there usually a single cause in a complex situation?,TRUE,no
+154,stressful,stress,ful,strumbful,It was stressful to be in a car with so little headroom and such unresponsive steering.,3,"187, 354",796,128,0.451341,low_lsa_high_freq,NA,FALSE,NA
+155,camper,camp,er,balver,The young camper sat on the doorstep and waited to leave. ,3,"239, 354",2612,73,0.709842,high_lsa_high_freq,NA,FALSE,NA
+156,remarkable,remark,able,rerolvable,It was remarkable to the scientist how much the birthrate had increased.,3,"186, 354",224,641,0.777872,high_lsa_high_freq,NA,FALSE,NA
+157,enforcement,enforce,ment,engursement,Strict enforcement of the rules was put into place at the schoolhouse that year. ,2,"188, 354",86,339,0.517443,low_lsa_high_freq,Were the rules fairly relaxed at the schoolhouse?,TRUE,no
+158,laziness,lazy,ness,fojiness,The room was a pigsty because of laziness and excuses. ,8,"630, 354",591,24,0.551664,low_lsa_low_freq,NA,FALSE,NA
+159,inclination,incline,ion,inbliration,The slight inclination of the girl towards witchcraft made her parents worry. ,3,"256, 354",19,42,0.701626,high_lsa_low_freq,NA,FALSE,NA
+160,politeness,polite,ness,salictness,The children exhibited politeness every weeknight at dinner.,4,"460, 354",711,29,0.519907,low_lsa_low_freq,NA,FALSE,NA
